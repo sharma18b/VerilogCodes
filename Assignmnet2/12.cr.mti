@@ -1,0 +1,17 @@
+{C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/1.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module traffic_controller
+-- Compiling module test_traffic
+
+Top level modules:
+	test_traffic
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/trl.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/trl.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tlc
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}

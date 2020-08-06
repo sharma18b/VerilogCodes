@@ -1,0 +1,38 @@
+
+module compliment(a, b);
+input [3:0]a;
+output [3:0]b;
+//reg [3:0]c;
+assign b = 9 - a;
+endmodule 
+
+module tbq3(a_t,b_t);
+reg[3:0] a_t = 3'b000;
+wire[3:0] b_t = 3'b000;
+compliment av(.a(a_t),.b(b_t));
+//$display("time =%g\t ,x_inp1=%b, rst1=%b, y_out1=%b,clk1=%b,state01=%b,state11=%b,state21=%b", $time, x_inp1, rst1, y_out1,clk1,state01,state11,state21);
+initial 
+begin
+//a_t = 3'b000;
+#5 ;
+a_t = 3'b001;
+#5 ;
+a_t = 3'b010;
+#5 ;
+a_t = 3'b011;
+#5 ;
+a_t = 3'b100;
+#5 ;
+a_t = 3'b101;
+#5 ;
+a_t = 3'b110;
+#5 ;
+a_t = 3'b111;
+#5 ;
+a_t = 3'b000;
+#5 ;
+a_t = 3'b001;
+#5 ;
+a_t = 3'b010;
+end 
+endmodule 

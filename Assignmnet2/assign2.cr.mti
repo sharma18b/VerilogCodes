@@ -1,0 +1,25 @@
+{C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module q2mealy01
+-- Compiling module q2_mealy_testb
+
+Top level modules:
+	q2_mealy_testb
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1machine.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1machine.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy111
+-- Compiling module q1_test_bench
+
+Top level modules:
+	q1_test_bench
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2moore.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\q2moore.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore01
+-- Compiling module q2_moore_test_b
+
+Top level modules:
+	q2_moore_test_b
+
+} {} {}}

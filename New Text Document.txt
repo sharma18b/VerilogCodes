@@ -1,0 +1,31 @@
+module test_b;
+reg clk,rst,x_inp;
+wire y_out;
+initial #200 $finish;
+initial
+begin
+clk = 1'b0;
+rst = 1'b0;
+end;
+always #5 clk = ~clk;
+initial
+	   begin
+	     $monitor("time =%g\t x_inp=%b, rst=%b, y_out=%b", $time, x_inp, rst, y_out);
+	     rst=1;
+	     #11 rst=0; x_inp=0;
+	     #10 x_inp=1;
+	     #10 x_inp=1;
+	     #10 x_inp=0;  // pattern 1
+	     #10 x_inp=1;
+	     #10 x_inp=1;
+	     #10 x_inp=1;
+	     #10 x_inp=0;  // pattern 2
+	     #10 x_inp=0;
+	     #10 x_inp=1;
+	     #10 x_inp=0;
+	     #10 x_inp=1;
+	     #10 x_inp=1;
+	     #10 x_inp=0; // pattern 3
+	     #10 $stop;
+	   end
+endmodule

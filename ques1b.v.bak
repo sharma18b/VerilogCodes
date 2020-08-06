@@ -1,0 +1,10 @@
+
+
+module parity_gen(a,b,c,o); // parity generator
+
+input a,b,c; // declaring the inputs
+output o; // declaring output i.e the parity
+
+ assign o= a^b^c;
+
+endmodule 

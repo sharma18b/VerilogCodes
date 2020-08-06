@@ -1,0 +1,73 @@
+{C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1alwie.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1alwie.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux3to1
+
+Top level modules:
+	mux3to1
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux4to1alwaysifelse.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux4to1alwaysifelse.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1casalw.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1casalw.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux3to1alwcase
+
+Top level modules:
+	mux3to1alwcase
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to1caseandalways.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to1caseandalways.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux4to1_using_always_and_case
+
+Top level modules:
+	mux4to1_using_always_and_case
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/stru4to1mux.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\stru4to1mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2_1
+-- Compiling module mux4_1
+
+Top level modules:
+	mux4_1
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1cond.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1cond.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux3to1cond
+
+Top level modules:
+	mux3to1cond
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to11.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\4to11.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cond_mux4_1
+
+Top level modules:
+	cond_mux4_1
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1ifelse.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1ifelse.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux3to1ifelse
+
+Top level modules:
+	mux3to1ifelse
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux4to1ifelse.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux4to1ifelse.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux4to1ifelse
+
+Top level modules:
+	mux4to1ifelse
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1struc.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1struc.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2_1
+-- Compiling module mux3_1
+
+Top level modules:
+	mux3_1
+
+} {} {}}

@@ -1,0 +1,17 @@
+{C:/Users/Rishabh Sharma/OneDrive/Documents/assign5/q3.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\assign5\q3.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module compliment
+-- Compiling module tbq4
+
+Top level modules:
+	tbq4
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/assign5/counter.v} {1 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\assign5\counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module up_counter
+-- Compiling module upcounter_testbench
+
+Top level modules:
+	upcounter_testbench
+
+} {} {}}

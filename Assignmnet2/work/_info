@@ -1,0 +1,829 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Rishabh Sharma/OneDrive/Documents/ass2
+vcond_mux4_1
+Z1 !s110 1570041482
+!i10b 1
+!s100 ^PLdoXK?dCdHzN2M_Nb7h3
+IMNT_1I34MoNSZSB]n=SfW1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1570015080
+Z3 8C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\4to11.v
+Z4 FC:\Users\Rishabh Sharma\OneDrive\Documents\ass2\4to11.v
+L0 1
+Z5 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z6 !s108 1570041482.000000
+Z7 !s107 C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\4to11.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\4to11.v|
+!s101 -O0
+!i113 1
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmealy111
+Z10 !s110 1571930487
+!i10b 1
+!s100 MPi_AKNlj`K3cK53S4JDc3
+I8SERk:TM]3QEVFM0PBLdZ2
+R2
+R0
+Z11 w1571930480
+Z12 8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1machine.v
+Z13 FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1machine.v
+L0 1
+R5
+r1
+!s85 0
+31
+Z14 !s108 1571930487.000000
+Z15 !s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1machine.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1machine.v|
+!s101 -O0
+!i113 1
+R9
+vmoore01
+Z17 !s110 1571931001
+!i10b 1
+!s100 0MfXjJED=nEC55Gk;fV1e2
+ITcC<d7cCdd3c3Ucj9]E@C0
+R2
+R0
+Z18 w1571930999
+Z19 8C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\q2moore.v
+Z20 FC:\Users\Rishabh Sharma\OneDrive\Documents\ass2\q2moore.v
+L0 1
+R5
+r1
+!s85 0
+31
+Z21 !s108 1571931001.000000
+Z22 !s107 C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\q2moore.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\q2moore.v|
+!s101 -O0
+!i113 1
+R9
+vmuley111
+!s110 1571681402
+!i10b 1
+!s100 be=kA=l_N5k94]iKN]3Fm3
+IF03hC>fB==L[JT1:ITleW2
+R2
+R0
+w1571681244
+Z24 8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1muley111.v
+Z25 FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1muley111.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1571681402.000000
+Z26 !s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1muley111.v|
+Z27 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1muley111.v|
+!s101 -O0
+!i113 1
+R9
+vmux
+R1
+!i10b 1
+!s100 86mOg0PecG;da^N`<RlTG3
+IcVFE7g3klYEhnQ7G8=RN22
+R2
+R0
+w1570041402
+Z28 8C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1casalw.v
+Z29 FC:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1casalw.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+Z30 !s107 C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1casalw.v|
+Z31 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1casalw.v|
+!s101 -O0
+!i113 1
+R9
+vmux1
+!s110 1570013212
+!i10b 1
+!s100 _QJTXe3;[ihhYOH1A]]aa1
+IS0l5=TJ;WlCGlK04l8`0m0
+R2
+R0
+w1570011533
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to11.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to11.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1570013212.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to11.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to11.v|
+!s101 -O0
+!i113 1
+R9
+vmux2_1
+Z32 !s110 1570124419
+!i10b 1
+!s100 IH<ENZ=EQa2WcKYz7EN1]2
+I8GU?T24<M?UU2M7]SUi]?2
+R2
+R0
+Z33 w1570124409
+Z34 8C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1struc.v
+Z35 FC:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1struc.v
+L0 2
+R5
+r1
+!s85 0
+31
+Z36 !s108 1570124419.000000
+Z37 !s107 C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1struc.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1struc.v|
+!s101 -O0
+!i113 1
+R9
+vmux2_1structural
+!s110 1570014888
+!i10b 1
+!s100 VM:fTBe`D30=81AZEZP`z0
+IOz6BEecX<8bPY`>^DMgiN0
+R2
+R0
+w1570013729
+R3
+R4
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1570014888.000000
+R7
+R8
+!s101 -O0
+!i113 1
+R9
+vmux3
+R1
+!i10b 1
+!s100 LgdJ=6g4Ke2ncImRe_L_F1
+I>RL@2Oz@4P0;=@^^4M<cZ2
+R2
+R0
+w1570014611
+8C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux4to1alwaysifelse.v
+FC:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux4to1alwaysifelse.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux4to1alwaysifelse.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux4to1alwaysifelse.v|
+!s101 -O0
+!i113 1
+R9
+vmux3_1
+R32
+!i10b 1
+!s100 AzLZg=N]UQ;lik9z2I6Rb0
+ILUKQ991^9@ARR2P`2>6S>0
+R2
+R0
+R33
+R34
+R35
+Z39 L0 14
+R5
+r1
+!s85 0
+31
+R36
+R37
+R38
+!s101 -O0
+!i113 1
+R9
+vmux3to1
+R1
+!i10b 1
+!s100 m7OCOBkJNfPJK^AZRIFSQ2
+I>SU3N2FLJoVQj][hY[Lgg1
+R2
+R0
+w1570041383
+8C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1alwie.v
+FC:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1alwie.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1alwie.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Rishabh Sharma\OneDrive\Documents\ass2\mux3to1alwie.v|
+!s101 -O0
+!i113 1
+R9
+vmux3to1alwcase
+!s110 1570124114
+!i10b 1
+!s100 dATDGaJ1`2>I6C@?_QO2<0
+I@L_zbai<BI@bYeKnMJRPz2
+R2
+R0
+w1570124109
+R28
+R29
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1570124113.000000
+R30
+R31
+!s101 -O0
+!i113 1
+R9
+vmux3to1cond
+!s110 1570041483
+!i10b 1
+!s100 TM]8Hzh=Ce@RhOK<@`m7f2
+IdnGW8:F6F]>SQ[_5Efb;n1
+R2
+R0
+w1570040819
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1cond.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1cond.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1cond.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1cond.v|
+!s101 -O0
+!i113 1
+R9
+vmux3to1ifelse
+!s110 1570122622
+!i10b 1
+!s100 @f`?1VSnmoTH8X7T03CPn3
+I5RDaF;KN2fk@B;m2>7T@>1
+R2
+R0
+w1570122617
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1ifelse.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1ifelse.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1570122621.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1ifelse.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux3to1ifelse.v|
+!s101 -O0
+!i113 1
+R9
+vmux4
+!s110 1570013112
+!i10b 1
+!s100 F9RS1W`NzUn3i7[i=fD_l0
+I]Yhd0:bYb``o[GFUHY4Pd3
+R2
+R0
+w1570013069
+Z40 8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to1caseandalways.v
+Z41 FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to1caseandalways.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1570013112.000000
+Z42 !s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to1caseandalways.v|
+Z43 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/4to1caseandalways.v|
+!s101 -O0
+!i113 1
+R9
+vmux4_1
+R1
+!i10b 1
+!s100 cX2mUOV?C2Hbfmh;3:Tbc1
+I;GVbWH50R4Aem?PP2N;zN2
+R2
+R0
+w1570041472
+R34
+R35
+R39
+R5
+r1
+!s85 0
+31
+R6
+R37
+R38
+!s101 -O0
+!i113 1
+R9
+vmux4to1_using_always_and_case
+R1
+!i10b 1
+!s100 9VVJ]@G71UY0jXRTmITG60
+IbLgczZ8:Ud@0]ROzQP8No3
+R2
+R0
+w1570013296
+R40
+R41
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R42
+R43
+!s101 -O0
+!i113 1
+R9
+vmux4to1ifelse
+R1
+!i10b 1
+!s100 VSQFYZa_no^Vgb6J^;LT>2
+IWiBRQ3`djkFa@]>4_T4f72
+R2
+R0
+w1570015712
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux4to1ifelse.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux4to1ifelse.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux4to1ifelse.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/mux4to1ifelse.v|
+!s101 -O0
+!i113 1
+R9
+vq1_test_bench
+R10
+!i10b 1
+!s100 ZcRX4_Ga6?];VXjbKbIFB2
+I5;gKo7I;Ci1Ui<BWizZ3K2
+R2
+R0
+R11
+R12
+R13
+Z44 L0 64
+R5
+r1
+!s85 0
+31
+R14
+R15
+R16
+!s101 -O0
+!i113 1
+R9
+vq2_mealy_testb
+Z45 !s110 1571930750
+!i10b 1
+!s100 I;2:d^de]m83VbOOB2Wbo1
+I01dkmC=TdXe1^<<3IZZe02
+R2
+R0
+Z46 w1571930747
+Z47 8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v
+Z48 FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v
+Z49 L0 78
+R5
+r1
+!s85 0
+31
+Z50 !s108 1571930750.000000
+Z51 !s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v|
+Z52 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v|
+!s101 -O0
+!i113 1
+R9
+vq2_moore_test_b
+R17
+!i10b 1
+!s100 MK=KA`XQKheG@OHO<LHzQ0
+IZEY@bJm?Z92Pf=Egg851R3
+R2
+R0
+R18
+R19
+R20
+Z53 L0 32
+R5
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R9
+vq2mealy01
+R45
+!i10b 1
+!s100 GR<0PnRfbFMGOz>J66gbm3
+IFnPaSU7<_dMW]^FZ4bVof3
+R2
+R0
+R46
+R47
+R48
+L0 2
+R5
+r1
+!s85 0
+31
+R50
+R51
+R52
+!s101 -O0
+!i113 1
+R9
+vtb_traffic
+!s110 1572531558
+!i10b 1
+!s100 0coUb9^3b6;LP]f>Pmb><0
+ILPoDmf2a=Ge=46;Y;5M5X1
+R2
+R0
+w1572463763
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tb1.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tb1.v
+L0 7
+R5
+r1
+!s85 0
+31
+!s108 1572531558.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tb1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tb1.v|
+!s101 -O0
+!i113 1
+R9
+vtb_traffic123
+Z54 !s110 1572531567
+!i10b 1
+!s100 >0CC;8F50ho_zC?0=O`oF3
+Ij5D`6mOAH`LlWW>icAeS[2
+R2
+R0
+Z55 w1572531512
+Z56 8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tra.v
+Z57 FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tra.v
+L0 126
+R5
+r1
+!s85 0
+31
+Z58 !s108 1572531567.000000
+Z59 !s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tra.v|
+Z60 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tra.v|
+!s101 -O0
+!i113 1
+R9
+vtb_traffic_test1
+!s110 1572530689
+!i10b 1
+!s100 i<WHm26>VEPEmId?4kWE<0
+IdonCHA>C]1>@dHaeOJ4OC1
+R2
+R0
+w1572530602
+R56
+R57
+L0 130
+R5
+r1
+!s85 0
+31
+!s108 1572530689.000000
+R59
+!s90 -reportprogress|300|-work|work|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/tra.v|
+!s101 -O0
+!i113 1
+R9
+vtb_traffic_test2
+!s110 1572530239
+!i10b 1
+!s100 6c8?2SYfMM>5gbdXFzV7n1
+Ii9WASd4QL<2<4BOTV=hi52
+R2
+R0
+w1572502695
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/traff.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/traff.v
+L0 132
+R5
+r1
+!s85 0
+31
+!s108 1572530239.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/traff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/traff.v|
+!s101 -O0
+!i113 1
+R9
+vtb_traffictest1
+!s110 1572464647
+!i10b 1
+!s100 FQ13flDKAbGKKDEFW@1f^3
+I0VAOXoNAiHPTgdN^`R02M3
+R2
+R0
+w1572464642
+R56
+R57
+L0 128
+R5
+r1
+!s85 0
+31
+!s108 1572464647.000000
+R59
+R60
+!s101 -O0
+!i113 1
+R9
+vtbq1
+!s110 1571681851
+!i10b 1
+!s100 e9<6P]VF:hY0UX_3<]^hl1
+ID>3XJ]lRBj@`]:J2VG29l3
+R2
+R0
+w1571681835
+R24
+R25
+L0 62
+R5
+r1
+!s85 0
+31
+!s108 1571681851.000000
+R26
+R27
+!s101 -O0
+!i113 1
+R9
+vtbq2
+!s110 1571815770
+!i10b 1
+!s100 =dJ@8Lc>M0oVjcZ=59b^P0
+IDUTKTcl>InSF5DM4mcKUV2
+R2
+R0
+w1571815764
+R47
+R48
+L0 60
+R5
+r1
+!s85 0
+31
+!s108 1571815770.000000
+R51
+R52
+!s101 -O0
+!i113 1
+R9
+vtest
+Z61 !s110 1572535651
+!i10b 1
+!s100 eiCeUmYO98SUA0:BKH41T3
+Iin[V_D7dBU9@_ImUAJTg[0
+R2
+R0
+Z62 w1572535649
+Z63 8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/trl.v
+Z64 FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/trl.v
+L0 104
+R5
+r1
+!s85 0
+31
+Z65 !s108 1572535651.000000
+Z66 !s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/trl.v|
+Z67 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/trl.v|
+!s101 -O0
+!i113 1
+R9
+vtest_b
+!s110 1571681707
+!i10b 1
+!s100 fRC81OQUHk?G`cFih6Vm]2
+IgllG?A0<IAR6LoRhTAZ5`1
+R2
+R0
+w1571681698
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/moore01.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/moore01.v
+L0 35
+R5
+r1
+!s85 0
+31
+!s108 1571681707.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/moore01.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/moore01.v|
+!s101 -O0
+!i113 1
+R9
+vtest_bench1
+!s110 1571923504
+!i10b 1
+!s100 oe811mjk1Pcei3Z69DA3g1
+IAQ?_;eG<eozL=:HV;dP0f3
+R2
+R0
+w1571923460
+R12
+R13
+R44
+R5
+r1
+!s85 0
+31
+!s108 1571923504.000000
+R15
+R16
+!s101 -O0
+!i113 1
+R9
+vtest_bench2
+!s110 1571925823
+!i10b 1
+!s100 ]acNL31cE]GXZGJVWI@Sf1
+IjT:ZhaS4z`^Z`V2PdBcmQ0
+R2
+R0
+w1571925815
+R19
+R20
+R53
+R5
+r1
+!s85 0
+31
+!s108 1571925823.000000
+R22
+R23
+!s101 -O0
+!i113 1
+R9
+vtest_bench3
+!s110 1571930660
+!i10b 1
+!s100 E<^`FR=moRcP0]VY>WDYL0
+IjBMA]7f[Agm4e^I?64f@W2
+R2
+R0
+w1571923502
+R47
+R48
+R49
+R5
+r1
+!s85 0
+31
+!s108 1571930660.000000
+R51
+R52
+!s101 -O0
+!i113 1
+R9
+vtest_bench_q2moore
+!s110 1571925856
+!i10b 1
+!s100 kQ0SKhNJ6VboG<F:Ue2@V0
+I`mF4Z?^ZGI=;BPiZ^E=TV2
+R2
+R0
+w1571925850
+R19
+R20
+R53
+R5
+r1
+!s85 0
+31
+!s108 1571925856.000000
+R22
+R23
+!s101 -O0
+!i113 1
+R9
+vtest_traffic
+Z68 !s110 1572537076
+!i10b 1
+!s100 Sj7Ye=O<f3c7ZmCYCTBBh1
+Ii[07VI1Tj`JV7P914lR9M1
+R2
+R0
+Z69 w1572536892
+Z70 8C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/1.v
+Z71 FC:/Users/Rishabh Sharma/OneDrive/Documents/ass2/1.v
+L0 46
+R5
+r1
+!s85 0
+31
+Z72 !s108 1572537076.000000
+Z73 !s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/1.v|
+Z74 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/1.v|
+!s101 -O0
+!i113 1
+R9
+vtlc
+R61
+!i10b 1
+!s100 Q_>CSEmSU^Dz@4UDNPFY00
+IMH`]0hzXT8T?:ooV3^<>Y0
+R2
+R0
+R62
+R63
+R64
+L0 2
+R5
+r1
+!s85 0
+31
+R65
+R66
+R67
+!s101 -O0
+!i113 1
+R9
+vtraffic_controller
+R68
+!i10b 1
+!s100 OQ7D[MBO41TIOQAmHX[2Z0
+IEhQchV1NMHfR4W=UnnT9;3
+R2
+R0
+R69
+R70
+R71
+L0 2
+R5
+r1
+!s85 0
+31
+R72
+R73
+R74
+!s101 -O0
+!i113 1
+R9
+vtraffic_light
+R54
+!i10b 1
+!s100 EK557=eCQOF>GmlSBdHKM3
+I;>zY:;e7@0ITVPLLzhYln3
+R2
+R0
+R55
+R56
+R57
+L0 1
+R5
+r1
+!s85 0
+31
+R58
+R59
+R60
+!s101 -O0
+!i113 1
+R9

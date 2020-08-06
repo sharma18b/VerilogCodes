@@ -1,0 +1,137 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Rishabh Sharma/OneDrive/Documents
+vALU8bit
+!s110 1567519813
+!i10b 1
+!s100 Ugh2G:G>N_Y[5U[fTn]BH2
+IUQoalAG4zzcfh<V8aUZAT1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1567505249
+8C:/Users/Rishabh Sharma/OneDrive/Documents/check.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/check.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1567519813.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/check.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u8bit
+valu8bit
+!s110 1567517992
+!i10b 1
+!s100 R8@B`UCKf@AHbg?e?_3[n2
+I`eoMBCOLfe^Ua1GPAIlh;0
+R1
+R0
+w1567517989
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ques3.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ques3.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1567517992.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ques3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ques3.v|
+!s101 -O0
+!i113 1
+R3
+vcond_mux4_1
+Z4 !s110 1567519809
+!i10b 1
+!s100 zYGWV?YeX>ZK2BN8i2Nhc3
+I<4J3N;3bN5HWjBKz<>_mB1
+R1
+R0
+w1567314022
+8C:/Users/Rishabh Sharma/OneDrive/Documents/Ques1b.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/Ques1b.v
+L0 2
+R2
+r1
+!s85 0
+31
+Z5 !s108 1567519809.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/Ques1b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/Ques1b.v|
+!s101 -O0
+!i113 1
+R3
+vmux2_1
+R4
+!i10b 1
+!s100 cQ5EE;`?W?bPohFe0^B391
+IUd1_[^[z3RP?F_897L]c31
+R1
+R0
+Z6 w1567312971
+Z7 8C:/Users/Rishabh Sharma/OneDrive/Documents/ques1a.v
+Z8 FC:/Users/Rishabh Sharma/OneDrive/Documents/ques1a.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+Z9 !s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ques1a.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ques1a.v|
+!s101 -O0
+!i113 1
+R3
+vmux4_1
+R4
+!i10b 1
+!s100 GcL7T1;P7DC@cG<XiZUC93
+IZO6F8hg@EK1X2]U_R;GQh2
+R1
+R0
+R6
+R7
+R8
+L0 13
+R2
+r1
+!s85 0
+31
+R5
+R9
+R10
+!s101 -O0
+!i113 1
+R3
+vparity_gen
+!s110 1567519016
+!i10b 1
+!s100 QkPJ]4^8?@JZQkN7:=Van3
+IggAPiR_GWTZM^jnZIIHD@0
+R1
+R0
+w1567505920
+8C:/Users/Rishabh Sharma/OneDrive/Documents/ques1b.v
+FC:/Users/Rishabh Sharma/OneDrive/Documents/ques1b.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1567519015.000000
+!s107 C:/Users/Rishabh Sharma/OneDrive/Documents/ques1b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rishabh Sharma/OneDrive/Documents/ques1b.v|
+!s101 -O0
+!i113 1
+R3

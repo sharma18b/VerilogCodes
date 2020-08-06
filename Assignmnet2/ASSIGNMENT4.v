@@ -1,0 +1,102 @@
+module tlc
+(
+input reset,
+input clock,
+input Ta,
+input Tb,
+output reg[1:0]La,
+output reg[1:0]Lb
+);
+
+	parameter green=0, yellow=1, red=2;
+
+	always @(posedge clock or posedge reset)
+	begin
+		if(reset)
+		begin
+		La = red;
+		Lb = green;
+		end
+		else
+		begin
+		if(Ta==0&&Tb==0)
+		begin
+			if(La==green&&Lb==red)
+			begin
+				La = yellow;
+			end
+			else if(La==yellow)
+			begin
+				La=red;
+				Lb=green;
+			end
+			else if(Lb==green&&La==red)
+			begin
+				Lb = yellow;
+			end
+			else if(Lb==yellow)
+			begin
+				Lb=red;
+				La=green;
+			end
+		end
+		else if(Ta==0&&Tb==1)
+		begin
+			if(La==green&&Lb==red)
+			begin
+				La = yellow;
+			end
+			else if(La==yellow)
+			begin
+				La=red;
+				Lb=green;
+			end
+			else
+			begin
+				La=red;
+				Lb=green;
+			end
+		end
+		else if(Ta==1&&Tb==0)
+		begin
+			if(Lb==green&&La==red)
+			begin
+				Lb = yellow;
+			end
+			else if(Lb==yellow)
+			begin
+				Lb=red;
+				La=green;
+			end
+			else
+			begin
+				Lb=red;
+				La=green;
+			end
+		end
+		else
+		begin
+			if(La==green&&Lb==red)
+			begin
+				La = yellow;
+			end
+			else if(La==yellow)
+			begin
+				La=red;
+				Lb=green;
+			end
+			else if(Lb==green&&La==red)
+			begin
+				Lb = yellow;
+			end
+			else if(Lb==yellow)
+			begin
+				Lb=red;
+				La=green;
+			end
+		end
+		end
+		
+	end
+endmodule
+

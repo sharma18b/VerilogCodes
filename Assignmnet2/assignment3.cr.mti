@@ -1,0 +1,26 @@
+{C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/moore01.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/moore01.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore01
+-- Compiling module test_b
+
+Top level modules:
+	test_b
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/1testnew.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/1testnew.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v} {0 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module q2mealy01
+** Error: C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q2mealy.v(56): LHS in procedural continuous assignment may not be a net: st.
+-- Compiling module tbq2
+
+} {4.0 5.0} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1muley111.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/ass2/q1muley111.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy111
+-- Compiling module tbq1
+
+Top level modules:
+	tbq1
+
+} {} {}}

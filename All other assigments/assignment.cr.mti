@@ -1,0 +1,44 @@
+{C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/Ques3.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/Ques3.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU8bit
+
+Top level modules:
+	ALU8bit
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/Ques1b.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/Ques1b.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cond_mux4_1
+
+Top level modules:
+	cond_mux4_1
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/Ques2paritygen.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/Ques2paritygen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module parity_gen
+
+Top level modules:
+	parity_gen
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/4to1 mux1.v} {2 {vlog -work work -stats=none {C:\Users\Rishabh Sharma\OneDrive\Documents\180102058_assigment\4to1 mux1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+** Warning: (vlog-6) -- Waiting for lock by "Rishabh Sharma@DESKTOP-H38GUUA, pid = 5128
+** Warning: (vlog-6) -- Waiting for lock by "Rishabh Sharma@DESKTOP-H38GUUA, pid = 5128
+". Lockfile is "C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/work/_lock".
+". Lockfile is "C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/work/_lock".
+
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+** Warning: (vlog-6) -- Waiting for lock by "Rishabh Sharma@DESKTOP-H38GUUA, pid = 5128
+". Lockfile is "C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/work/_lock".
+
+
+} {} {}} {C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/ques1a.v} {1 {vlog -work work -stats=none {C:/Users/Rishabh Sharma/OneDrive/Documents/180102058_assigment/ques1a.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2_1
+-- Compiling module mux4_1
+
+Top level modules:
+	mux4_1
+
+} {} {}}
